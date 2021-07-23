@@ -2,28 +2,28 @@ baseurl: '/'
 permalink: pretty
 title: 'InternetBlogCo'
 
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
+# logo:
+#   mobile: "images/logo/logo-mobile.svg"
+#   desktop: "images/logo/logo.svg"
+#   desktop_height: "36px"
 
-collections:
-  services:
-    output: true
-  team:
-    output: true
+# collections:
+#   services:
+#     output: true
+#   team:
+#     output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "services"
+#     values:
+#       layout: "service"
+#   - scope:
+#       path: ""
+#       type: "team"
+#     values:
+#       layout: "team"
 
 sass:
   indentWidth: 4
