@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Register",
+    "description": "Send an email to register@internetblog.co with the title of your website as the subject (one word, no caps), and get started immediately.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "View Blog",
+    "description": "View your website at internetblog.co/<name of your blog>",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Post blogs",
+    "description": "To post, send an email to publish@internetblog.co with the title of the post as the subject, and the contents as the body.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
